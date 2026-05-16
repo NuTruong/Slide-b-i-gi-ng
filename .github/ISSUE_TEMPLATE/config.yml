@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/NuTruong/Slide-b-i-gi-ng/discussions
+    about: Hỏi câu hỏi hoặc thảo luận ý tưởng trong Discussions
+  - name: 📖 Wiki
+    url: https://github.com/NuTruong/Slide-b-i-gi-ng/wiki
+    about: Tìm hiểu thêm từ Wiki
+  - name: 📧 Email
+    url: mailto:quynhluu869@gmail.com
+    about: Liên hệ trực tiếp qua email
